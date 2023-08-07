@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799011245810",
+    "project_id": "fir-auth-b3e7a",
+    "storage_bucket": "fir-auth-b3e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799011245810:android:3da4d909fd49e2a9f4ca6b",
+        "android_client_info": {
+          "package_name": "com.example.budget_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799011245810-iaj79n72gif60h5ov7v4lhd6feslknd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMm9ZzuRoBuqJA2ug9N2n-SL0sN3NAivc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799011245810-iaj79n72gif60h5ov7v4lhd6feslknd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
